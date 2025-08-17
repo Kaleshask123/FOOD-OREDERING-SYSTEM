@@ -57,8 +57,3 @@ Selected: Jeera Rice
 Total Amount: 280.00
 ==========================================
 
-## ⚙️ Installation & Setup
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/indian-desi-masala.git
-   cd indian-desi-masala
